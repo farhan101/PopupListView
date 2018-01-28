@@ -1,10 +1,3 @@
-//
-//  SelectionDialog.swift
-//  tossdown
-//
-//  Created by MacMini on 10/19/17.
-//  Copyright © 2017 tossdown. All rights reserved.
-//
 
 import UIKit
 
