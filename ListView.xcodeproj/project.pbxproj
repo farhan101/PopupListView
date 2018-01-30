@@ -14,6 +14,7 @@
 		D80E0207201B06AD008A1622 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D80E0205201B06AD008A1622 /* LaunchScreen.storyboard */; };
 		D880BC9C201DCC8600D0DDE9 /* SelectionDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = D880BC9A201DCC8600D0DDE9 /* SelectionDialog.swift */; };
 		D880BC9D201DCC8600D0DDE9 /* SelectionDialog.xib in Resources */ = {isa = PBXBuildFile; fileRef = D880BC9B201DCC8600D0DDE9 /* SelectionDialog.xib */; };
+		D880BC9F2020671E00D0DDE9 /* Countries.json in Resources */ = {isa = PBXBuildFile; fileRef = D880BC9E2020671E00D0DDE9 /* Countries.json */; };
 		D89D8B3A201B354200CA125E /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = D89D8B39201B354200CA125E /* data.json */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		D80E0208201B06AD008A1622 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D880BC9A201DCC8600D0DDE9 /* SelectionDialog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionDialog.swift; sourceTree = "<group>"; };
 		D880BC9B201DCC8600D0DDE9 /* SelectionDialog.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SelectionDialog.xib; sourceTree = "<group>"; };
+		D880BC9E2020671E00D0DDE9 /* Countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Countries.json; sourceTree = "<group>"; };
 		D89D8B39201B354200CA125E /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +64,7 @@
 			children = (
 				D880BC99201DCC8600D0DDE9 /* Selection Dialog */,
 				D89D8B39201B354200CA125E /* data.json */,
+				D880BC9E2020671E00D0DDE9 /* Countries.json */,
 				D80E01FC201B06AD008A1622 /* AppDelegate.swift */,
 				D80E01FE201B06AD008A1622 /* ViewController.swift */,
 				D80E0200201B06AD008A1622 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D80E0207201B06AD008A1622 /* LaunchScreen.storyboard in Resources */,
+				D880BC9F2020671E00D0DDE9 /* Countries.json in Resources */,
 				D80E0204201B06AD008A1622 /* Assets.xcassets in Resources */,
 				D80E0202201B06AD008A1622 /* Main.storyboard in Resources */,
 				D880BC9D201DCC8600D0DDE9 /* SelectionDialog.xib in Resources */,
